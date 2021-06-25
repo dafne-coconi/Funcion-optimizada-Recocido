@@ -1,10 +1,3 @@
-# Copyright Esteban Mendiola Tellez All Rights Reserved.
-#
-# Use of this source code is governed by an MIT-style license that can be
-# found in the LICENSE file at root of this proyect or in
-# https://gitlab.com/TebanMT/hill-climbing/-/blob/master/LICENSE
-# ==============================================================================
-# modificaciones al código
 import numpy as np
 from numpy.random import randint, uniform
 
